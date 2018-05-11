@@ -1,0 +1,8 @@
+D:\Works\Quote\Development\Atgo2.ApiService\Atgo2.Api.DataRepository\bin\Debug\netcoreapp2.0\Atgo2.Api.DataRepository.deps.json
+D:\Works\Quote\Development\Atgo2.ApiService\Atgo2.Api.DataRepository\bin\Debug\netcoreapp2.0\Atgo2.Api.DataRepository.dll
+D:\Works\Quote\Development\Atgo2.ApiService\Atgo2.Api.DataRepository\bin\Debug\netcoreapp2.0\Atgo2.Api.DataRepository.pdb
+D:\Works\Quote\Development\Atgo2.ApiService\Atgo2.Api.DataRepository\obj\Debug\netcoreapp2.0\Atgo2.Api.DataRepository.csproj.CoreCompileInputs.cache
+D:\Works\Quote\Development\Atgo2.ApiService\Atgo2.Api.DataRepository\obj\Debug\netcoreapp2.0\Atgo2.Api.DataRepository.AssemblyInfoInputs.cache
+D:\Works\Quote\Development\Atgo2.ApiService\Atgo2.Api.DataRepository\obj\Debug\netcoreapp2.0\Atgo2.Api.DataRepository.AssemblyInfo.cs
+D:\Works\Quote\Development\Atgo2.ApiService\Atgo2.Api.DataRepository\obj\Debug\netcoreapp2.0\Atgo2.Api.DataRepository.dll
+D:\Works\Quote\Development\Atgo2.ApiService\Atgo2.Api.DataRepository\obj\Debug\netcoreapp2.0\Atgo2.Api.DataRepository.pdb

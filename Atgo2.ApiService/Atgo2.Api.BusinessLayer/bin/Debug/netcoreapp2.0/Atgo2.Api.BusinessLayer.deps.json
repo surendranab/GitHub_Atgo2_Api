@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Atgo2.Api.BusinessLayer/1.0.0": {
+        "dependencies": {
+          "Atgo2.Api.DataRepository": "1.0.0",
+          "Atgo2.Api.Entity": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "2.0.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "2.0.1.0"
+        },
+        "runtime": {
+          "Atgo2.Api.BusinessLayer.dll": {}
+        }
+      },
+      "Atgo2.Api.DataRepository/1.0.0": {
+        "runtime": {
+          "Atgo2.Api.DataRepository.dll": {}
+        }
+      },
+      "Atgo2.Api.Entity/1.0.0": {
+        "runtime": {
+          "Atgo2.Api.Entity.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/2.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.DependencyInjection.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/2.0.1.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atgo2.Api.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Atgo2.Api.DataRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Atgo2.Api.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Abstractions/2.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
