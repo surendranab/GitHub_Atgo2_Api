@@ -702,11 +702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.BusinessLayer\\Atgo2.Api.BusinessLayer.csproj",
+      "projectUniqueName": "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.BusinessLayer\\Atgo2.Api.BusinessLayer.csproj",
       "projectName": "Atgo2.Api.BusinessLayer",
-      "projectPath": "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.BusinessLayer\\Atgo2.Api.BusinessLayer.csproj",
+      "projectPath": "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.BusinessLayer\\Atgo2.Api.BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\Surendhar\\.nuget\\packages\\",
-      "outputPath": "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.BusinessLayer\\obj\\",
+      "outputPath": "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -725,11 +725,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.DataRepository\\Atgo2.Api.DataRepository.csproj": {
-              "projectPath": "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.DataRepository\\Atgo2.Api.DataRepository.csproj"
+            "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.DataRepository\\Atgo2.Api.DataRepository.csproj": {
+              "projectPath": "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.DataRepository\\Atgo2.Api.DataRepository.csproj"
             },
-            "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.Entity\\Atgo2.Api.Entity.csproj": {
-              "projectPath": "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.Entity\\Atgo2.Api.Entity.csproj"
+            "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.Entity\\Atgo2.Api.Entity.csproj": {
+              "projectPath": "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.Entity\\Atgo2.Api.Entity.csproj"
             }
           }
         }

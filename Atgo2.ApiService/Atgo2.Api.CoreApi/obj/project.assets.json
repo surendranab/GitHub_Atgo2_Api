@@ -13210,11 +13210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.CoreApi\\Atgo2.Api.WebApi.csproj",
-      "projectName": "Atgo2.Api.WebApi",
-      "projectPath": "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.CoreApi\\Atgo2.Api.WebApi.csproj",
+      "projectUniqueName": "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.CoreApi\\Atgo2.Api.CoreApi.csproj",
+      "projectName": "Atgo2.Api.CoreApi",
+      "projectPath": "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.CoreApi\\Atgo2.Api.CoreApi.csproj",
       "packagesPath": "C:\\Users\\Surendhar\\.nuget\\packages\\",
-      "outputPath": "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.CoreApi\\obj\\",
+      "outputPath": "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.CoreApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13233,8 +13233,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.BusinessLayer\\Atgo2.Api.BusinessLayer.csproj": {
-              "projectPath": "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.BusinessLayer\\Atgo2.Api.BusinessLayer.csproj"
+            "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.BusinessLayer\\Atgo2.Api.BusinessLayer.csproj": {
+              "projectPath": "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.BusinessLayer\\Atgo2.Api.BusinessLayer.csproj"
             }
           }
         }

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.Entity\\Atgo2.Api.Entity.csproj",
+      "projectUniqueName": "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.Entity\\Atgo2.Api.Entity.csproj",
       "projectName": "Atgo2.Api.Entity",
-      "projectPath": "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.Entity\\Atgo2.Api.Entity.csproj",
+      "projectPath": "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.Entity\\Atgo2.Api.Entity.csproj",
       "packagesPath": "C:\\Users\\Surendhar\\.nuget\\packages\\",
-      "outputPath": "D:\\Works\\Quote\\Development\\Atgo2.ApiService\\Atgo2.Api.Entity\\obj\\",
+      "outputPath": "D:\\Works\\Quote\\Development\\GitHub_Atgo2_Api\\Atgo2.ApiService\\Atgo2.Api.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

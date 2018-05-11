@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.9
+VisualStudioVersion = 15.0.27520.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atgo2.Api.CoreApi", "Atgo2.Api.CoreApi\Atgo2.Api.CoreApi.csproj", "{29260B4E-5C81-4FE3-AFD8-DD9894554F41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atgo2.Api.WebApi", "Atgo2.Api.CoreApi\Atgo2.Api.WebApi.csproj", "{29260B4E-5C81-4FE3-AFD8-DD9894554F41}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atgo2.Api.Entity", "Atgo2.Api.Entity\Atgo2.Api.Entity.csproj", "{8CCB849B-4FD3-43E8-890C-DB248B97D934}"
 EndProject
