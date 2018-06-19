@@ -1,0 +1,16 @@
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\obj\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.csproj.CoreCompileInputs.cache
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\obj\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.AssemblyInfoInputs.cache
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\obj\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.AssemblyInfo.cs
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\bin\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.deps.json
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\bin\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.dll
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\bin\Debug\netcoreapp2.0\Atgo2.Api.Entity.dll
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\bin\Debug\netcoreapp2.0\Atgo2.Api.Entity.pdb
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\obj\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.csprojAssemblyReference.cache
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\obj\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.csproj.CopyComplete
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\bin\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.pdb
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\bin\Debug\netcoreapp2.0\Microsoft.IdentityModel.Tokens.dll
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\bin\Debug\netcoreapp2.0\Microsoft.IdentityModel.Tokens.xml
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\obj\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.dll
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CrossCuttingLayer\obj\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.pdb

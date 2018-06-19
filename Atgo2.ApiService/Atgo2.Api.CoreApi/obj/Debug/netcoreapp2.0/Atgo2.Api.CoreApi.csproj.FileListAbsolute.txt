@@ -34,3 +34,5 @@ D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CoreApi\o
 D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CoreApi\obj\Debug\netcoreapp2.0\Atgo2.Api.CoreApi.csproj.CopyComplete
 D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CoreApi\obj\Debug\netcoreapp2.0\Atgo2.Api.CoreApi.dll
 D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CoreApi\obj\Debug\netcoreapp2.0\Atgo2.Api.CoreApi.pdb
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CoreApi\bin\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.dll
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.CoreApi\bin\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.pdb

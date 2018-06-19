@@ -1,10 +1,12 @@
-﻿using System;
+﻿using Atgo2.Api.Entity;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Atgo2.Api.DataRepository.Interfaces
 {
-    public class IUserRepository
+    public interface IUserRepository : IRepository<ApplicationUser>, IDisposable
     {
+
     }
 }

@@ -14,7 +14,7 @@ using Atgo2.Api.BusinessLayer;
 using Atgo2.Api.BusinessLayer.Interface;
 using Atgo2.Api.Entity;
 
-namespace Atgo2.Api.WebApi
+namespace Atgo2.Api.CoreApi
 {
     public class Startup
     {
@@ -57,14 +57,14 @@ namespace Atgo2.Api.WebApi
             //    options.SwaggerDoc("v1",
             //        new Info
             //        {
-            //            Title = "Navvis Web Api",
+            //            Title = "Atgo2 Web Api",
             //            Version = "v1",
-            //            Description = "Navvis Web Api - Patient Tracking System",
+            //            Description = "Atgo2 Web Api - Patient Tracking System",
             //            TermsOfService = "None"
             //        }
             //    );
             //    options.OperationFilter<SwaggerAuthorizationFilter>();
-            //    var filePath = Path.Combine(PlatformServices.Default.Application.ApplicationBasePath, "Navvis.PatientTrackingSystem.WebApi.xml");
+            //    var filePath = Path.Combine(PlatformServices.Default.Application.ApplicationBasePath, "Atgo2.Api.CoreApi.xml");
             //    options.IncludeXmlComments(filePath);
             //    options.DescribeAllEnumsAsStrings();
             //});

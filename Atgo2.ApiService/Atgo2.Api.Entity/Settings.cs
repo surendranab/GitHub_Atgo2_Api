@@ -6,8 +6,8 @@
         //public int SecurityTimeStamp { get; set; }
         //public bool IsNonceEnabled { get; set; }
         //public bool IsEtagEnabled { get; set; }
-        //public bool IsCacheEnabled { get; set; }
-        //public bool IsLoggingEnabled { get; set; }
+        public bool IsCacheEnabled { get; set; }
+        public bool IsLoggingEnabled { get; set; }
         //public bool IsTestModeEnabled { get; set; }
         //public string ServerTimezone { get; set; }
         //public string CoreoWrapperPatientSearchUri { get; set; }

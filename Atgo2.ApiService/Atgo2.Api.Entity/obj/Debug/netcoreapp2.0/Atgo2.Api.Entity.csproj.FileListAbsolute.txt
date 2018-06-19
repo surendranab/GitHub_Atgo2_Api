@@ -9,7 +9,6 @@ D:\Works\Quote\Development\Atgo2.ApiService\Atgo2.Api.Entity\obj\Debug\netcoreap
 D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.Entity\bin\Debug\netcoreapp2.0\Atgo2.Api.Entity.deps.json
 D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.Entity\bin\Debug\netcoreapp2.0\Atgo2.Api.Entity.dll
 D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.Entity\bin\Debug\netcoreapp2.0\Atgo2.Api.Entity.pdb
-D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.Entity\obj\Debug\netcoreapp2.0\Atgo2.Api.Entity.csprojAssemblyReference.cache
 D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.Entity\obj\Debug\netcoreapp2.0\Atgo2.Api.Entity.csproj.CoreCompileInputs.cache
 D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.Entity\obj\Debug\netcoreapp2.0\Atgo2.Api.Entity.AssemblyInfoInputs.cache
 D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.Entity\obj\Debug\netcoreapp2.0\Atgo2.Api.Entity.AssemblyInfo.cs

@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Atgo2.Api.WebApi
+namespace Atgo2.Api.CoreApi
 {
     public class Program
     {

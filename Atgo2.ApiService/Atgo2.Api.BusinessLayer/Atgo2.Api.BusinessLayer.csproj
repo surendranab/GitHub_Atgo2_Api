@@ -6,6 +6,10 @@
     <OldToolsVersion>15.0</OldToolsVersion>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Atgo2.Api.CrossCuttingLayer\Atgo2.Api.CrossCuttingLayer.csproj" />
     <ProjectReference Include="..\Atgo2.Api.DataRepository\Atgo2.Api.DataRepository.csproj" />
     <ProjectReference Include="..\Atgo2.Api.Entity\Atgo2.Api.Entity.csproj" />
   </ItemGroup>

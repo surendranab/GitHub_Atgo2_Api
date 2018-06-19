@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Atgo2.Api.CrossCuttingLayer</AssemblyName>
+	<RootNamespace>Atgo2.Api.CrossCuttingLayer</RootNamespace>
+    <FileUpgradeFlags>40</FileUpgradeFlags>    
+    <OldToolsVersion>15.0</OldToolsVersion>    
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Extensions\DateTimeExtensions.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="4.5.6" />
+    <PackageReference Include="StackExchange.Redis.StrongName" Version="1.2.6" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Atgo2.Api.Entity\Atgo2.Api.Entity.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.IdentityModel.Tokens">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.identitymodel.tokens\5.1.4\lib\netstandard1.4\Microsoft.IdentityModel.Tokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\newtonsoft.json\10.0.1\lib\netstandard1.3\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+</Project>

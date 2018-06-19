@@ -1,6 +1,9 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Atgo2.Api.Entity;
 using System;
+using Atgo2.Api.DataRepository;
+using Atgo2.Api.CrossCuttingLayer.Logging.Interfaces;
+using Atgo2.Api.CrossCuttingLayer.Logging;
 
 namespace Atgo2.Api.BusinessLayer
 {
@@ -12,15 +15,21 @@ namespace Atgo2.Api.BusinessLayer
             _appsettings = appsettings;
         }
 
-        public T Service =>
-                //var serviceCollections = new ServiceCollection();
+        public T Service
+        {
+            get
+            {
+                //var serviceCollections = new ServiceCollection()
                 //IServiceProvider serviceProvider = serviceCollections.BuildServiceProvider();
-                //var serviceProvider = new ServiceCollection();
+                var serviceProvider = new ServiceCollection()
                 //.AddSingleton(typeof(IDatabase<>), typeof(Database<>))
-                //.AddSingleton(typeof(IServiceLogger), typeof(ServiceLogger))
-                //.AddSingleton(_appsettings)
-                //.AddSingleton(typeof(T))
-                //.BuildServiceProvider();
-                default(T); // (T)Convert.ChangeType(serviceProvider.GetService<T>(), typeof(T));
+                .AddSingleton(typeof(IServiceLogger), typeof(ServiceLogger))
+                .AddSingleton(_appsettings)
+                .AddSingleton(typeof(T))
+                .BuildServiceProvider();
+                return (T)Convert.ChangeType(serviceProvider.GetService<T>(), typeof(T));
+                // default(T);
+            }
+        }
     }
 }

@@ -5,4 +5,12 @@
     <UpgradeBackupLocation>D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Backup1\</UpgradeBackupLocation>
     <OldToolsVersion>15.0</OldToolsVersion>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.5" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.5.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Atgo2.Api.CrossCuttingLayer\Atgo2.Api.CrossCuttingLayer.csproj" />
+    <ProjectReference Include="..\Atgo2.Api.Entity\Atgo2.Api.Entity.csproj" />
+  </ItemGroup>
 </Project>

@@ -5,13 +5,34 @@ using Atgo2.Api.DataRepository.Repositories;
 using Atgo2.Api.Entity;
 using System;
 using System.Threading.Tasks;
+using Atgo2.Api.CrossCuttingLayer.Logging.Interfaces;
+using Atgo2.Api.CrossCuttingLayer.Logging;
+using Atgo2.Api.CrossCuttingLayer.Logging.Model;
+using NLog;
 
 namespace Atgo2.Api.BusinessLayer
 {
     public class UserService : BaseService<UserRepository, ApplicationUser>, IUserService
     {
         private readonly IDatabase<UserRepository> _user;
+        //private readonly IDatabase<UserRoleRepository> _userRole;
+        //private readonly IDatabase<UserAuthRepository> _useAuth;
+        private readonly IServiceLogger _logger;
+        private readonly IDatabase<RoleRepository> _role;
+        
+        //private readonly IDatabase<CommonRepository> _common;
+        //private readonly IDatabase<UserAccessRepository> _userAccess;
+        //private readonly IDatabase<UserLoginRepository> _userLogin;
+        //private readonly IDatabase<ExceptionLogRepository> _exception;
+        private readonly AppSettings _appsettings;
+        private Task EmailContentType;
 
+        public UserService(IDatabase<UserRepository> user, IServiceLogger logger, IDatabase<RoleRepository> role) : base(user, logger)
+        {
+            _user = user;           
+            _logger = logger;
+            _role = role;            
+        }
         /// <summary>
         /// Validate User
         /// </summary>
@@ -20,12 +41,12 @@ namespace Atgo2.Api.BusinessLayer
         /// <returns></returns>
         public async Task<dynamic> ValidateUser(LoginRequestViewModel req, int currentUserId)
         {
-            //Logger.Log(new LogInformation
-            //{
-            //    Module = Constants.UserModule,
-            //    UserId = currentUserId,
-            //    Message = Constants.MethodInvokedMessage
-            //});
+            _logger.Log(new LogInformation
+            {
+                Module = Constants.UserModule,
+                UserId = currentUserId,
+                Message = Constants.MethodInvokedMessage
+            });
 
             //var applicationUser = await FindByUniqueIdAsync(req.UserName, currentUserId);
 

@@ -34,3 +34,9 @@ D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.BusinessL
 D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.BusinessLayer\obj\Debug\netcoreapp2.0\Atgo2.Api.BusinessLayer.csproj.CopyComplete
 D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.BusinessLayer\obj\Debug\netcoreapp2.0\Atgo2.Api.BusinessLayer.dll
 D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.BusinessLayer\obj\Debug\netcoreapp2.0\Atgo2.Api.BusinessLayer.pdb
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.BusinessLayer\bin\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.dll
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.BusinessLayer\bin\Debug\netcoreapp2.0\Microsoft.IdentityModel.Tokens.dll
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.BusinessLayer\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.BusinessLayer\bin\Debug\netcoreapp2.0\Atgo2.Api.CrossCuttingLayer.pdb
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.BusinessLayer\bin\Debug\netcoreapp2.0\Microsoft.IdentityModel.Tokens.xml
+D:\Works\Quote\Development\GitHub_Atgo2_Api\Atgo2.ApiService\Atgo2.Api.BusinessLayer\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
